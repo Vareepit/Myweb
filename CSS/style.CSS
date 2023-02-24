@@ -1,0 +1,23 @@
+.container{
+    width: 75%;
+}
+.pfooter{
+    text-align: center;
+    background-color: rgb(83, 136, 201);
+}
+.col1{
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid rgb(156, 203, 189);
+}
+.ppic{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+
+}
